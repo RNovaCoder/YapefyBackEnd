@@ -10,7 +10,7 @@ use Illuminate\Support\Facades\Schema;
 class BD
 {
 
-    static private $pre_bd = "app_tr_";
+    static private $pre_bd = "webprize_app_tr_";
     static private $pre_tabla = "usertr";
 
     /*Variable para acceder a los modelos 
