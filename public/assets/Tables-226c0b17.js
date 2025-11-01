@@ -1,1 +1,0 @@
-import{j as e}from"./index-a8dfe74b.js";import{B as s}from"./Breadcrumb-e138aa63.js";const m=()=>e.jsxs(e.Fragment,{children:[e.jsx(s,{pageName:"Tables"}),e.jsx("div",{className:"flex flex-col gap-10"})]});export{m as default};
