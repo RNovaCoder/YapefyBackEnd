@@ -1,0 +1,1 @@
+const e={name:"Ricardo V.",email:"rdevcontact1@gmail.com",phone:"+51994863121",github:"https://github.com/RNovaCoder",linkedin:"https://www.linkedin.com/in/rdevcode",appname:"YapefyWeb"};export{e as A};

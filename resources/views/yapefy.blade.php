@@ -12,7 +12,7 @@
       href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap"
       rel="stylesheet"
     />
-    <script type="module" crossorigin src="{{asset('/assets/index-1aae74b4.js')}}"></script>
+    <script type="module" crossorigin src="{{asset('/assets/index-f853c2e8.js')}}"></script>
     <link rel="stylesheet" href="{{asset('/assets/index-2d5a0588.css')}}">
   </head>
   <body class="antialiased">
